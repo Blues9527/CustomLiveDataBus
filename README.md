@@ -1,0 +1,2 @@
+# CustomLiveDataBus
+此项目是根据网易公开课去手动实现的类似于livedatabus
